@@ -431,6 +431,7 @@ header nav ul li a:hover {
   position: relative;
   max-width: 1250px;
   margin: auto;
+  padding: 0 10px;
   /* align-items: center; */
 }
 
@@ -643,6 +644,7 @@ header nav ul li a:hover {
   align-items: stretch;
   gap: 30px;
   box-sizing: border-box;
+  padding: 0 10px;
 }
 @media screen and (min-width: 680px) {
   .articles {
