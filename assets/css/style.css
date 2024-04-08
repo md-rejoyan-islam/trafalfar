@@ -427,11 +427,10 @@ header nav ul li a:hover {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   gap: 30px;
-  padding: 40px 0 80px;
+  padding: 40px 10px 80px;
   position: relative;
   max-width: 1250px;
   margin: auto;
-  padding: 0 10px;
   /* align-items: center; */
 }
 
