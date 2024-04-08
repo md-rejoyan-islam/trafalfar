@@ -377,9 +377,7 @@ header nav ul li a:hover {
 }
 
 /* services  */
-#services {
-  overflow: hidden;
-}
+
 #services #shape_img img {
   width: 100%;
 }
@@ -395,9 +393,11 @@ header nav ul li a:hover {
   position: absolute;
   top: 0;
   bottom: 0;
-  margin: auto 0;
-  right: -30px;
+  right: 0;
   z-index: -1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #services h2 {
@@ -429,6 +429,8 @@ header nav ul li a:hover {
   gap: 30px;
   padding: 40px 0 80px;
   position: relative;
+  max-width: 1250px;
+  margin: auto;
   /* align-items: center; */
 }
 
@@ -441,9 +443,6 @@ header nav ul li a:hover {
 @media screen and (min-width: 856px) {
   #services .services-cards {
     grid-template-columns: repeat(3, 1fr);
-  }
-  #services .dot_img {
-    right: -50px;
   }
 }
 
