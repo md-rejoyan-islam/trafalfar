@@ -434,9 +434,21 @@ header nav ul li a:hover {
   /* align-items: center; */
 }
 
+#services .service-card {
+  border-radius: 20px;
+  background: #fff;
+  box-shadow: 10px 40px 50px 0px rgba(229, 233, 246, 0.4);
+  padding: 40px 30px 50px;
+  border: 1px solid transparent;
+  text-align: center;
+}
+
 @media screen and (min-width: 580px) {
   #services .services-cards {
     grid-template-columns: repeat(2, 1fr);
+  }
+  #services .service-card {
+    text-align: left;
   }
 }
 
@@ -446,13 +458,6 @@ header nav ul li a:hover {
   }
 }
 
-#services .service-card {
-  border-radius: 20px;
-  background: #fff;
-  box-shadow: 10px 40px 50px 0px rgba(229, 233, 246, 0.4);
-  padding: 40px 30px 50px;
-  border: 1px solid transparent;
-}
 #services .service-card:hover {
   box-shadow: 5px 5px 0px 0px rgba(53, 204, 103, 0.4);
   border-color: rgba(53, 204, 103, 0.4);
