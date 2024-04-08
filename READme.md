@@ -16,4 +16,4 @@ Trafalgar provides progressive, and affordable healthcare, accessible on mobile 
 
 ### Figma File
 
-[LINK](<https://www.figma.com/file/XfusUxB41cF8pclYknAlvP/Positivus-Landing-Page-Design-(Community)-(Copy)?type=design&node-id=325%3A241&mode=dev&t=Cot85lipzVXaZxUA-1>)
+[LINK](https://www.figma.com/file/zbgBIoTtfJgaTn5ljw9Uk8/Trafalgar-Landing-Page?type=design&node-id=0%3A1&mode=dev&t=W1zi1CQuD3lceT0o-1)
