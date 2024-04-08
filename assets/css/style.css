@@ -204,6 +204,11 @@ header nav ul li a:hover {
   cursor: pointer;
   width: 28px;
 }
+
+#menu_close span {
+  margin-top: -3px;
+  display: block;
+}
 #menu_close:hover {
   background-color: #eab6b6;
 }
@@ -268,7 +273,7 @@ header nav ul li a:hover {
 #healthcare .health_dot {
   position: absolute;
   top: 50px;
-  left: 0px;
+  left: 10px;
   z-index: -1;
   width: 100px;
 }
@@ -343,7 +348,7 @@ header nav ul li a:hover {
   }
   #healthcare .health_dot {
     top: 100px;
-    left: -50px;
+    left: -80px;
 
     width: 150px;
   }
@@ -436,6 +441,9 @@ header nav ul li a:hover {
 @media screen and (min-width: 856px) {
   #services .services-cards {
     grid-template-columns: repeat(3, 1fr);
+  }
+  #services .dot_img {
+    right: -50px;
   }
 }
 
