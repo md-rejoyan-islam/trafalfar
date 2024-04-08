@@ -655,6 +655,7 @@ header nav ul li a:hover {
   border: 1px solid transparent;
   overflow: hidden;
   margin: auto;
+  height: 100%;
 }
 
 #article .article-card:hover {
