@@ -2,7 +2,7 @@
 
 ## Describtion
 
-Trafalgar provides progressive, and affordable healthcare, accessible on mobile and online for everyone . I have clone the website from a figma file.
+Trafalgar offers affordable, progressive healthcare solutions accessible online and on mobile, tailored to individual health needs with top doctors.
 
 ## Technologies
 
