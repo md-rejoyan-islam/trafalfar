@@ -2,7 +2,14 @@
 
 ## Describtion
 
-Trafalgar offers affordable, progressive healthcare solutions accessible online and on mobile, tailored to individual health needs with top doctors.
+Trafalgar is a healthcare service that offers progressive and affordable healthcare solutions accessible both on mobile and online platforms. The service is designed to cater to individual health needs, providing users with the best choices for their specific conditions.
+
+**Key features include:**
+
+- **Personalized Healthcare**: Users can adjust services to fit their health needs.
+- **Qualified Doctors**: Access to highly qualified doctors for consultations.
+- **Accessibility**: Services are available on both mobile and online platforms.
+- **Commitment to Quality**: Trafalgar takes pride in delivering effective healthcare solutions.
 
 ## Technologies
 
