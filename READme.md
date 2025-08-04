@@ -9,7 +9,7 @@ Trafalgar is a healthcare service that offers progressive and affordable healthc
 - **Personalized Healthcare**: Users can adjust services to fit their health needs.
 - **Qualified Doctors**: Access to highly qualified doctors for consultations.
 - **Accessibility**: Services are available on both mobile and online platforms.
-- **Commitment to Quality**: Trafalgar takes pride in delivering effective healthcare solutions.
+- **Commitment to Quality**: Trafalgar takes pride in delivering effective healthcare solutions.s
 
 ## Technologies
 
